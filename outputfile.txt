@@ -1,0 +1,13 @@
+Variable ID - inchar -
+la       $a0, inchar  #Buffer           
+lbu      $4, inchar   #Get the character into $4.
+Variable ID - prompt -
+la       $a0,prompt     #Start addr. of prompt string.
+Variable ID - yes str -
+Variable ID - no str -
+Flow Control - main -
+.globl main
+Flow Control - yes_part -
+Flow Control - no_part -
+blt      $4, $5, no_part  #If ascii code is < 48 or > 57 
+bgt      $4, $6, no_part  #it can't be a digit.
