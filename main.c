@@ -2,12 +2,7 @@
 //  CSI 333
 //  Spring 2019
 //  Project4
-//  ZR1702
-//  2017215126 2017215141
-//  Qin Weiwei Gao Yifeng
-//  Qin Weiwei writes main(),findtxt(),v(),findv(),Input(),struct,test and find the problem
-//  Gao Yifeng writes seg(),finb(),b(),finddata(),solve the problem from testing
-//  Created by 秦玮蔚、高艺峰 on 2019/4/29.
+//  Created by Weiwei Qin on 2019/4/29.
 //  Copyright © 2019 Qin Weiwei. All rights reserved.
 //
 
